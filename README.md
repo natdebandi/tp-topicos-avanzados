@@ -44,6 +44,8 @@ jupyter/notebook/TPDebandi/analisis-covid.ipynb
 Esta notebook lee directamente el archivo parquet que se construyeó en:
 jupyter/notebook//TPDebandi/preprocesamiento.ipynb
 
+El objetivo del análisis es lograr predecir a partir de un conjunto de variables (sexo, género, tiempo entre diagnostico y tratamiento,nacionalidad,semana epidemiológica, tipo de financiamiento en la atención médica) el fallecimiento o no de una persona por COVID.
+Es importante aclarar que se trata de un ejercicio y que si bien los datos son reales no se pretende efectivamente realizar una clasificación de esta índole, ya que consideramos que no tiene mucho sentido. Se requieren de variables vinculadas a las condiciones previas del paciente y epidemilógicas.
 
 
 ## Infrastructura
